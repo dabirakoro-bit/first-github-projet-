@@ -1,6 +1,5 @@
 oignon
-tomate
-carrote
+
 jus de banane
 j'ai encore modifier le fichier a nouveau
 Jus d'avocat 
